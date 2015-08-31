@@ -5,7 +5,7 @@ import (
 
 	"github.com/Sirupsen/logrus"
 
-	"github.com/dancannon/gorethink/encoding"
+	"github.com/brendanobrienesq/gorethink/encoding"
 )
 
 var (

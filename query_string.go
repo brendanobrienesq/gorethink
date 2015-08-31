@@ -1,7 +1,7 @@
 package gorethink
 
 import (
-	p "github.com/dancannon/gorethink/ql2"
+	p "github.com/brendanobrienesq/gorethink/ql2"
 )
 
 // Match matches against a regular expression. If no match is found, returns

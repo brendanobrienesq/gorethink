@@ -3,7 +3,7 @@ package gorethink
 import (
 	test "gopkg.in/check.v1"
 
-	"github.com/dancannon/gorethink/types"
+	"github.com/brendanobrienesq/gorethink/types"
 )
 
 func (s *RethinkSuite) TestGeospatialDecodeGeometryPseudoType(c *test.C) {

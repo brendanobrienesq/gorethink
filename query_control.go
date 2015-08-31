@@ -5,7 +5,7 @@ import (
 
 	"reflect"
 
-	p "github.com/dancannon/gorethink/ql2"
+	p "github.com/brendanobrienesq/gorethink/ql2"
 )
 
 // Expr converts any value to an expression and is also used by many other terms
